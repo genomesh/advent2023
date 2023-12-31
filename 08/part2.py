@@ -1,5 +1,3 @@
-import numpy as np
-
 file = open("input.txt", "r")
 
 nodes = {}
@@ -48,4 +46,4 @@ print(f'answer: {number_of_moves}')
 file.close()
 
 #strategy: try to identify cycles
-# 
+# answer >= 2,900,000,000

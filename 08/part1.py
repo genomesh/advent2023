@@ -1,5 +1,3 @@
-import numpy as np
-
 file = open("input.txt", "r")
 
 nodes = {}
