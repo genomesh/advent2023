@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from math import lcm
 
 file = open("input.txt", "r")
